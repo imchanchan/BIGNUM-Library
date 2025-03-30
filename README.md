@@ -12,49 +12,49 @@
 
 #### ▶️ 프로그램 시작 화면 및 연산 선택
 
-![시작 화면](./screenshots/usage_start.png)
+![시작 화면](./screenshot/usage_start.png)
 
 ---
 
 #### ➕ 덧셈 (1번 선택 시 A + B)
 
-![덧셈 결과](./screenshots/usage_add.png)
+![덧셈 결과](./screenshot/usage_add.png)
 
 ---
 
 #### ➖ 뺄셈 (2번 선택 시 A - B)
 
-![뺄셈 결과](./screenshots/usage_sub.png)
+![뺄셈 결과](./screenshot/usage_sub.png)
 
 ---
 
 #### ✖️ 곱셈 (3번 선택 시 A * B)
 
-![곱셈 결과](./screenshots/usage_mul.png)
+![곱셈 결과](./screenshot/usage_mul.png)
 
 ---
 
 #### ⚡ Karatsuba 곱셈 (4번 선택 시 고속 곱셈 알고리즘)
 
-![Karatsuba 곱셈 결과](./screenshots/usage_karatsuba.png)
+![Karatsuba 곱셈 결과](./screenshot/usage_karatsuba.png)
 
 ---
 
 #### ➗ 나눗셈 (5번 선택 시 A / B)
 
-![나눗셈 결과](./screenshots/usage_div.png)
+![나눗셈 결과](./screenshot/usage_div.png)
 
 ---
 
 #### 🧮 모듈러 연산 (6번 선택 시 A mod B)
 
-![모듈러 결과](./screenshots/usage_mod.png)
+![모듈러 결과](./screenshot/usage_mod.png)
 
 ---
 
 #### 피연산자 업데이트 (7번 선택 시 A, B 재입력) 종료 (0번 선택 시 계산기 종료)
 
-![업데이트 화면](./screenshots/usage_update_quit.png)
+![업데이트 화면](./screenshot/usage_update_quit.png)
 
 
 
