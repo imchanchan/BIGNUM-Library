@@ -1,4 +1,3 @@
-# BIGNUM-Library
 ## 🧮 TITAN_calculator 사용법
 
 `TITAN_calculator`는 16진수(Big Integer) 연산을 위한 콘솔 기반 계산기입니다. 피연산자 A, B를 입력받아 다양한 산술 연산을 수행할 수 있습니다.
